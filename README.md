@@ -4,14 +4,13 @@ Welcome to my first GitHub repository! This project is part of my coding journey
 
 ## Project Description
 
-[Briefly explain what your project does]
-Example: "A simple calculator that can add, subtract, multiply, and divide numbers."
+"A simple calculator that can add, subtract, multiply, and divide numbers."
 
 ## How to Use
 
 1. Clone this repository
 2. Open the file in your code editor
-3. Run `python calculator.py` (or appropriate command)
+3. Run `python calculator.py` 
 
 ## What I Learned
 
