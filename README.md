@@ -9,8 +9,9 @@ Welcome to my first GitHub repository! This project is part of my coding journey
 ## How to Use
 
 1. Clone this repository
-2. Open the file in your code editor
-3. Run `python calculator.py` 
+ https://github.com/Rajeshexploit/my-first-project.git
+3. Open the file in your code editor
+4. Run `python calculator.py` 
 
 ## What I Learned
 
