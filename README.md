@@ -1,4 +1,3 @@
-# my-first-project
 # My First Project
 
 Welcome to my first GitHub repository! This project is part of my coding journey.
